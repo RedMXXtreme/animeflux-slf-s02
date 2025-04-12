@@ -348,7 +348,7 @@ const AnimePage = () => {
       <div className="p-4 mt-8 bg-gray-800 rounded-lg shadow-md">
         <h2 className="text-xl font-bold mb-4">Seasons</h2>
         <div className="flex gap-4 overflow-x-auto">
-          <a href="https://www.animekai.to/seasons/season-1"><button>
+          <a href="https://animeflux-slf-s01"><button>
           <div className="bg-gray-700 p-4 rounded-lg flex-shrink-0 w-48"
           style={{ backgroundImage: "url('https://static1.animekai.to/6e/i/0/28/67664acada30d.jpg')", backgroundSize: "cover" }}>
             <h3 className="font-bold">Season 1</h3>
@@ -356,7 +356,7 @@ const AnimePage = () => {
           </div>
           </button>
           </a>
-          <a href="https://www.animekai.to/seasons/season-2">
+          <a href="/">
           <button>
           <div className="bg-gray-700 p-4 rounded-lg flex-shrink-0 w-48"
           style={{ backgroundImage: "url('https://static1.animekai.to/94/i/a/bd/67664ad7ae926.jpg')", backgroundSize: "cover" }}>
