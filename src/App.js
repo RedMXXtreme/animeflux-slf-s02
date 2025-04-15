@@ -25,8 +25,8 @@ const AnimePage = () => {
     { id: 21, src: "https://yasdownloads.org/shangri-la-frontier-season-2-19324?season=01&episode=21", HD1: "https://newer.stream/v/tFkyPNcC3WOH/", HD2: "https://newer.stream/v/tFkyPNcC3WOH/", HDSUB1: "https://newer.stream/v/p8XFwapatveF/", HDSUB2: "https://swishsrv.com/e/0gy4bwbxupt8" },
     { id: 22, src: "https://yasdownloads.org/shangri-la-frontier-season-2-19324?season=01&episode=22", HD1: "https://newer.stream/v/lmtzH2AO3gm6/", HD2: "https://newer.stream/v/lmtzH2AO3gm6/", HDSUB1: "https://newer.stream/v/xbWJGuNzg4QS/", HDSUB2: "https://sstream.site/e/mp5qmks1rmc8" },
     { id: 23, src: "https://yasdownloads.org/shangri-la-frontier-season-2-19324?season=01&episode=23", HD1: "https://newer.stream/v/TQ0l55JW8Cz9/", HD2: "https://newer.stream/v/TQ0l55JW8Cz9/", HDSUB1: "https://newer.stream/v/Gk746WirTbVg/", HDSUB2: "https://sstream.site/e/r93cayfwbm30" },
-    { id: 24, src: "https://yasdownloads.org/shangri-la-frontier-season-2-19324?season=01&episode=24", HD1: "https://newer.stream/v/W5WQHStmyVgD/", HD2: "https://newer.stream/v/W5WQHStmyVgD/", HDSUB1: "https://newer.stream/v/W5WQHStmyVgD/", HDSUB2: "https://sstream.site/e/fjkpbsxgxulm" },
-    { id: 25, src: "https://yasdownloads.org/shangri-la-frontier-season-2-19324?season=01&episode=25", HD1: "https://newer.stream/v/OfoZ0RvBD9ZB/", HD2: "https://newer.stream/v/OfoZ0RvBD9ZB/", HDSUB1: "https://newer.stream/v/OfoZ0RvBD9ZB/", HDSUB2: "https://sstream.site/e/oezr6xy80pq1" },
+    { id: 24, src: "https://yasdownloads.org/shangri-la-frontier-season-2-19324?season=01&episode=24", HD1: "https://newer.stream/v/7OO2jZtjF1ok/", HD2: "https://newer.stream/v/7OO2jZtjF1ok/", HDSUB1: "https://newer.stream/v/W5WQHStmyVgD/", HDSUB2: "https://sstream.site/e/fjkpbsxgxulm" },
+    { id: 25, src: "https://yasdownloads.org/shangri-la-frontier-season-2-19324?season=01&episode=25", HD1: "https://newer.stream/v/cnfd8NkXiDcZ/", HD2: "https://newer.stream/v/cnfd8NkXiDcZ/", HDSUB1: "https://newer.stream/v/OfoZ0RvBD9ZB/", HDSUB2: "https://sstream.site/e/oezr6xy80pq1" },
   ];
 
   const ranvideo = [
